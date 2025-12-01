@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Phigrosman(https://img.shields.io/badge/phigrosman-github-blue?logo=github)](https://github.com/phigrosman)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a freshman majoring in computer science and technology in Hebei University of Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zjy810526[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Science and Technology, Hebei University of Technology, 2025—2029.\
+B.E.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence Seismology.
 
